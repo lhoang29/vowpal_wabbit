@@ -1,0 +1,570 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Modules"><param name="Local" value="modules.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTestingCsharp"><param name="Local" value="group___multi_world_testing_csharp.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting"><param name="Local" value="namespace_multi_world_testing.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="EpsilonGreedyExplorer"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EpsilonGreedyExplorer"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#a3fb21ba32eaa81e1a93a425442cbf808"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~EpsilonGreedyExplorer"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#a672c34dc2cbfea2581a30e2f9b4e9d43"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#a1700e25814503566d67537c5fce9d0b8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#ae46f438cb78e2fb047c0f56312449fc7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="override"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#afdf6076215046ded2bd490074cf54d16"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TauFirstExplorer"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TauFirstExplorer"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a82446a5937a730c0d5430c2d6be2eae8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~TauFirstExplorer"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a653168c6a959c19a9bcc1f1b85f86754"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a8273da32229a4e77071b2d18e3902838"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a113a49f04878b0ab095141448d1ddd96"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="override"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a18dca5a9fe6bdf20756f7840b9222efb"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SoftmaxExplorer"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SoftmaxExplorer"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html#ae8256cffdd3e3adcfe603f2568061298"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~SoftmaxExplorer"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html#a347592f6fdd73898ff6850e54de4b862"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html#a00d4e0bf7bb9219c8fa7a101171760bc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html#ac6f594e4011c7ef46316dab72c22ab0e"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GenericExplorer"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GenericExplorer"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html#ac3a78527c470a079799f9d5c0072aed3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GenericExplorer"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html#af3a0f88f40037b13a8b7f34d953c149c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html#ac8a7f0f741bfbba29dc8b3e830b76bf2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html#a48681dc3f94f5ded34b82e320299a00c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BootstrapExplorer"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="BootstrapExplorer"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#af58ea28287abf507e921d3c6bdc901f1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~BootstrapExplorer"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#a507ff78ea0524b4acf3c73dd2a6cc456"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#aed1aff8e8f8cdfc794b83c8f4420bf00"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#a858bff055c15ece82fadc1773fb5f686"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="override"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#a0d966227173823bcae65c3e22e282993"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#a698d58d25c81c54c0919527411c49964"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseAction"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#ad7ead5c5691186007845757026dfac3f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#ad75699e39dbe36dc41e8311a97000e1c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="action"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#ab6e63f11663db96f2f21b6656a15d913"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="override"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#a740fae41022487c28ca86b8c73f11383"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="probability"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#a96587d82c15b5c49ac692f468c3c868e"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature"><param name="Local" value="struct_multi_world_testing_1_1_feature.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="struct_multi_world_testing_1_1_feature.html#a561f4e18ed2f7eeecb126ac90eac1135"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Value"><param name="Local" value="struct_multi_world_testing_1_1_feature.html#a20d73529fe51a18c73c4afab620187c7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleContext"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleContext"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#a8a8373d91d09356b7dfb8252198bdd93"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~SimpleContext"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#af83264ed1926c30c80f33903552e30ef"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFeatures"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#a97be346899bbfd8e2f1efb7fc814bd99"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ToString"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#a611da8ef6857cece3289bbc0996070a2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#a28c087a621a9075a2fbe257e3e23f99d"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IRecorder"><param name="Local" value="interface_multi_world_testing_1_1_i_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="interface_multi_world_testing_1_1_i_recorder.html#a05a2d47581691449a1d341943a5e5a85"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IPolicy"><param name="Local" value="interface_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseAction"><param name="Local" value="interface_multi_world_testing_1_1_i_policy.html#a737c2322afcb58ac5b43ca7d95ac04a1"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IScorer"><param name="Local" value="interface_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ScoreActions"><param name="Local" value="interface_multi_world_testing_1_1_i_scorer.html#a925d92ea5bd3b9fd012245f7bdcba7cf"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IExplorer"><param name="Local" value="interface_multi_world_testing_1_1_i_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IStringContext"><param name="Local" value="interface_multi_world_testing_1_1_i_string_context.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ToString"><param name="Local" value="interface_multi_world_testing_1_1_i_string_context.html#a627c6026e53509113f9a0a167e097bf2"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTestingCpp"><param name="Local" value="group___multi_world_testing_cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting"><param name="Local" value="namespace_native_multi_world_testing.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_mwt_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_mwt_explorer.html#a07a481368c22fce838d5e584fad0c070"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="class_native_multi_world_testing_1_1_mwt_explorer.html#a6ef0c881e0b4532f4a54ea49dca19eb0"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IRecorder"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_recorder.html#a347057c4a309dd5c17bfef0ffdb4ecb0"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IExplorer"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_explorer.html#aa39c18328cccedf5c200cd31ee44cadd"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IPolicy"><param name="Local" value="class_native_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="class_native_multi_world_testing_1_1_i_policy.html#afc9dbea0daa5af1dc7a9dbc7bf02c8b8"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IScorer"><param name="Local" value="class_native_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Score_Actions"><param name="Local" value="class_native_multi_world_testing_1_1_i_scorer.html#a7db660f15c81648864ec31336312bdc4"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="StringRecorder"><param name="Local" value="struct_native_multi_world_testing_1_1_string_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Get_Recording"><param name="Local" value="struct_native_multi_world_testing_1_1_string_recorder.html#a472c98d1bdffbd55e15d2d90d88bce73"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="struct_native_multi_world_testing_1_1_string_recorder.html#aeff66998efda5436eecabcf66aebc047"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature"><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="operator=="><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html#a96f2ac2e1b8e7dd7261a3ecc4702b0e4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html#a2f3cd650c866677014cf8529d2b38343"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Value"><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html#aa456a709eb6e1623dae80993dec28333"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleContext"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleContext"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html#abc0a5a66bae6b53c92290dbc107bdd10"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Get_Features"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html#acab4a9d9ce6533cac4ac3758cc077fdd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="To_String"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html#aa3bd48f7831fbb6fec50ff06f10d14a7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="EpsilonGreedyExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EpsilonGreedyExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html#a0e325e6acbcfe01a7dc1e8d7e92c2888"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~EpsilonGreedyExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html#a67fbba0fd5682b4c3c6cf659551ae1ce"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SoftmaxExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_softmax_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SoftmaxExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_softmax_explorer.html#a8f4589759ceaf18da9ab84061ab2f1c6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_softmax_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GenericExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_generic_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GenericExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_generic_explorer.html#a5f74dc49476e58c5534d5ff32a959e79"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_generic_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TauFirstExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_tau_first_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TauFirstExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_tau_first_explorer.html#a48c1359917cb35ec10cfe9dc4a875f7e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_tau_first_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BootstrapExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_bootstrap_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="BootstrapExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_bootstrap_explorer.html#a2b77e62281e8450a3a5b707e8be72588"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_bootstrap_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="murmur_hash"><param name="Local" value="struct_native_multi_world_testing_1_1murmur__hash.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="uniform_hash"><param name="Local" value="struct_native_multi_world_testing_1_1murmur__hash.html#a9e194058eb445eb7f9f11a558f9382cc"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HashUtils"><param name="Local" value="class_native_multi_world_testing_1_1_hash_utils.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NumberUtils"><param name="Local" value="class_native_multi_world_testing_1_1_number_utils.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="int_float"><param name="Local" value="union_native_multi_world_testing_1_1_p_r_g_1_1int__float.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="union_native_multi_world_testing_1_1_p_r_g_1_1int__float.html#aa33f85bf8f6c561358ff448b36cdd74a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="union_native_multi_world_testing_1_1_p_r_g_1_1int__float.html#a6c90d7b58ec87cfad70f483d684e7d14"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="prg"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="prg"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#a64f0086389e8e8e937e15673fb8fb7a5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="prg"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#a79f4233b785fb3d9dba724c4e417a701"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="merand48"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#a5546065000c870d363d6d395cb9722d9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Uniform_Int"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#ac3205d3f62300a427511a0d35294c808"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Uniform_Unit_Interval"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#a603f9d05084aa30b091aaf3e5c9295b4"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespaces"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace List"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting"><param name="Local" value="namespace_multi_world_testing.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting"><param name="Local" value="namespace_native_multi_world_testing.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace Members"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="namespacemembers_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting"><param name="Local" value="namespace_multi_world_testing.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="abstract"><param name="Local" value="class_multi_world_testing_1_1abstract.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~PolicyCallback"><param name="Local" value="class_multi_world_testing_1_1abstract.html#a4e7a4435d6ef4ffd0954b8aa758d6b92"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~RecorderCallback"><param name="Local" value="class_multi_world_testing_1_1abstract.html#a7ead77708be00373d04ace186589c754"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~ScorerCallback"><param name="Local" value="class_multi_world_testing_1_1abstract.html#a849f45a315d8fc6b9d9674efe63a48e5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNativePolicies"><param name="Local" value="class_multi_world_testing_1_1abstract.html#ae05f52de3f8bed59cc68cdc07ec503d5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNativePolicy"><param name="Local" value="class_multi_world_testing_1_1abstract.html#aa0edd3ac76c600b878108b40a6d4a65b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNativeRecorder"><param name="Local" value="class_multi_world_testing_1_1abstract.html#a671ce132d3c9e6f051667104a6afa3fb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNativeScorer"><param name="Local" value="class_multi_world_testing_1_1abstract.html#ac60aa26baafdc733b281a6e0c926de06"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PolicyCallback"><param name="Local" value="class_multi_world_testing_1_1abstract.html#ac6697126dc949941480ac8aa6b038f0f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RecorderCallback"><param name="Local" value="class_multi_world_testing_1_1abstract.html#a4ff26b480c30424f318296c783329210"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ScorerCallback"><param name="Local" value="class_multi_world_testing_1_1abstract.html#a1fe58b82874db2d4c4ee04bab1932eb6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1abstract.html#a0ed2b52b38c0a710d547a4ea40b1ba5e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="action"><param name="Local" value="class_multi_world_testing_1_1abstract.html#ae945a3807f811f9f6c7605a1d16f60c0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="index"><param name="Local" value="class_multi_world_testing_1_1abstract.html#ae03cb3e162fe41e75a743819471b7f39"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="probability"><param name="Local" value="class_multi_world_testing_1_1abstract.html#a4e9b2d70326831e282e09c80256c711a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="unique_key"><param name="Local" value="class_multi_world_testing_1_1abstract.html#ad18922008e32089b0fe74623b63fa390"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="BootstrapExplorer"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BootstrapExplorer"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#af58ea28287abf507e921d3c6bdc901f1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~BootstrapExplorer"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#a507ff78ea0524b4acf3c73dd2a6cc456"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#aed1aff8e8f8cdfc794b83c8f4420bf00"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#a858bff055c15ece82fadc1773fb5f686"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="override"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html#a0d966227173823bcae65c3e22e282993"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EpsilonGreedyExplorer"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EpsilonGreedyExplorer"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#a3fb21ba32eaa81e1a93a425442cbf808"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~EpsilonGreedyExplorer"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#a672c34dc2cbfea2581a30e2f9b4e9d43"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#a1700e25814503566d67537c5fce9d0b8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#ae46f438cb78e2fb047c0f56312449fc7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="override"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html#afdf6076215046ded2bd490074cf54d16"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature"><param name="Local" value="struct_multi_world_testing_1_1_feature.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="struct_multi_world_testing_1_1_feature.html#a561f4e18ed2f7eeecb126ac90eac1135"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Value"><param name="Local" value="struct_multi_world_testing_1_1_feature.html#a20d73529fe51a18c73c4afab620187c7"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GenericExplorer"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenericExplorer"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html#ac3a78527c470a079799f9d5c0072aed3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~GenericExplorer"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html#af3a0f88f40037b13a8b7f34d953c149c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html#ac8a7f0f741bfbba29dc8b3e830b76bf2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html#a48681dc3f94f5ded34b82e320299a00c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IExplorer"><param name="Local" value="interface_multi_world_testing_1_1_i_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IPolicy"><param name="Local" value="interface_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseAction"><param name="Local" value="interface_multi_world_testing_1_1_i_policy.html#a737c2322afcb58ac5b43ca7d95ac04a1"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IRecorder"><param name="Local" value="interface_multi_world_testing_1_1_i_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="interface_multi_world_testing_1_1_i_recorder.html#a05a2d47581691449a1d341943a5e5a85"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IScorer"><param name="Local" value="interface_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ScoreActions"><param name="Local" value="interface_multi_world_testing_1_1_i_scorer.html#a925d92ea5bd3b9fd012245f7bdcba7cf"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IStringContext"><param name="Local" value="interface_multi_world_testing_1_1_i_string_context.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ToString"><param name="Local" value="interface_multi_world_testing_1_1_i_string_context.html#a627c6026e53509113f9a0a167e097bf2"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#a698d58d25c81c54c0919527411c49964"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseAction"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#ad7ead5c5691186007845757026dfac3f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#ad75699e39dbe36dc41e8311a97000e1c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="action"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#ab6e63f11663db96f2f21b6656a15d913"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="override"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#a740fae41022487c28ca86b8c73f11383"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="probability"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html#a96587d82c15b5c49ac692f468c3c868e"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeContext"><param name="Local" value="class_multi_world_testing_1_1_native_context.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeContext"><param name="Local" value="class_multi_world_testing_1_1_native_context.html#a11dab33c5e76f144f14e41dd12be7fba"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get_Clr_Context"><param name="Local" value="class_multi_world_testing_1_1_native_context.html#aeb416999de78fa2d0c967e75b4e74b62"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get_Clr_Explorer"><param name="Local" value="class_multi_world_testing_1_1_native_context.html#ae48b386c675de22365e368e38dbee2b6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get_Clr_Mwt"><param name="Local" value="class_multi_world_testing_1_1_native_context.html#ab5db6da05820e228b4815ad92451a7db"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativePolicy"><param name="Local" value="class_multi_world_testing_1_1_native_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NativePolicy"><param name="Local" value="class_multi_world_testing_1_1_native_policy.html#a7c243a6ff6c3616806b7409bac68dd45"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="class_multi_world_testing_1_1_native_policy.html#a7d416d1ed849c457314ae2e6f8538138"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeRecorder"><param name="Local" value="class_multi_world_testing_1_1_native_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeRecorder"><param name="Local" value="class_multi_world_testing_1_1_native_recorder.html#a20eba0c0fa729aa79b130a6de64fa1ca"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_multi_world_testing_1_1_native_recorder.html#a5e66234da0c3eb140fbdd025b3ee679f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeScorer"><param name="Local" value="class_multi_world_testing_1_1_native_scorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeScorer"><param name="Local" value="class_multi_world_testing_1_1_native_scorer.html#a6f53ca5146c438c15aaed24e8b6e7624"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Score_Actions"><param name="Local" value="class_multi_world_testing_1_1_native_scorer.html#af0dc243a30bee9a2775e7c7b0e059954"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeStringContext"><param name="Local" value="class_multi_world_testing_1_1_native_string_context.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeStringContext"><param name="Local" value="class_multi_world_testing_1_1_native_string_context.html#a64ab64b815ca8218e81e2a11d0bab264"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="To_String"><param name="Local" value="class_multi_world_testing_1_1_native_string_context.html#aa6f816679d1500e4196a5791e6f8f1e8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleContext"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleContext"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#a8a8373d91d09356b7dfb8252198bdd93"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~SimpleContext"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#af83264ed1926c30c80f33903552e30ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFeatures"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#a97be346899bbfd8e2f1efb7fc814bd99"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ToString"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#a611da8ef6857cece3289bbc0996070a2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html#a28c087a621a9075a2fbe257e3e23f99d"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SoftmaxExplorer"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SoftmaxExplorer"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html#ae8256cffdd3e3adcfe603f2568061298"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~SoftmaxExplorer"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html#a347592f6fdd73898ff6850e54de4b862"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html#a00d4e0bf7bb9219c8fa7a101171760bc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html#ac6f594e4011c7ef46316dab72c22ab0e"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TauFirstExplorer"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TauFirstExplorer"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a82446a5937a730c0d5430c2d6be2eae8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~TauFirstExplorer"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a653168c6a959c19a9bcc1f1b85f86754"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a8273da32229a4e77071b2d18e3902838"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="__pad0__"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a113a49f04878b0ab095141448d1ddd96"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="override"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html#a18dca5a9fe6bdf20756f7840b9222efb"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting"><param name="Local" value="namespace_native_multi_world_testing.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PRG"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="int_float"><param name="Local" value="union_native_multi_world_testing_1_1_p_r_g_1_1int__float.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="union_native_multi_world_testing_1_1_p_r_g_1_1int__float.html#aa33f85bf8f6c561358ff448b36cdd74a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="union_native_multi_world_testing_1_1_p_r_g_1_1int__float.html#a6c90d7b58ec87cfad70f483d684e7d14"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="prg"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="prg"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#a64f0086389e8e8e937e15673fb8fb7a5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="prg"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#a79f4233b785fb3d9dba724c4e417a701"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="merand48"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#a5546065000c870d363d6d395cb9722d9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Uniform_Int"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#ac3205d3f62300a427511a0d35294c808"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Uniform_Unit_Interval"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html#a603f9d05084aa30b091aaf3e5c9295b4"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="BootstrapExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_bootstrap_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BootstrapExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_bootstrap_explorer.html#a2b77e62281e8450a3a5b707e8be72588"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_bootstrap_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EpsilonGreedyExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EpsilonGreedyExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html#a0e325e6acbcfe01a7dc1e8d7e92c2888"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~EpsilonGreedyExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html#a67fbba0fd5682b4c3c6cf659551ae1ce"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature"><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="operator=="><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html#a96f2ac2e1b8e7dd7261a3ecc4702b0e4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html#a2f3cd650c866677014cf8529d2b38343"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Value"><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html#aa456a709eb6e1623dae80993dec28333"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GenericExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_generic_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenericExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_generic_explorer.html#a5f74dc49476e58c5534d5ff32a959e79"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_generic_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HashUtils"><param name="Local" value="class_native_multi_world_testing_1_1_hash_utils.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IExplorer"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_explorer.html#aa39c18328cccedf5c200cd31ee44cadd"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IPolicy"><param name="Local" value="class_native_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="class_native_multi_world_testing_1_1_i_policy.html#afc9dbea0daa5af1dc7a9dbc7bf02c8b8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IRecorder"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_recorder.html#a347057c4a309dd5c17bfef0ffdb4ecb0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IScorer"><param name="Local" value="class_native_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Score_Actions"><param name="Local" value="class_native_multi_world_testing_1_1_i_scorer.html#a7db660f15c81648864ec31336312bdc4"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="murmur_hash"><param name="Local" value="struct_native_multi_world_testing_1_1murmur__hash.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="uniform_hash"><param name="Local" value="struct_native_multi_world_testing_1_1murmur__hash.html#a9e194058eb445eb7f9f11a558f9382cc"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_mwt_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_mwt_explorer.html#a07a481368c22fce838d5e584fad0c070"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="class_native_multi_world_testing_1_1_mwt_explorer.html#a6ef0c881e0b4532f4a54ea49dca19eb0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NumberUtils"><param name="Local" value="class_native_multi_world_testing_1_1_number_utils.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleContext"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleContext"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html#abc0a5a66bae6b53c92290dbc107bdd10"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get_Features"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html#acab4a9d9ce6533cac4ac3758cc077fdd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="To_String"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html#aa3bd48f7831fbb6fec50ff06f10d14a7"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SoftmaxExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_softmax_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SoftmaxExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_softmax_explorer.html#a8f4589759ceaf18da9ab84061ab2f1c6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_softmax_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="StringRecorder"><param name="Local" value="struct_native_multi_world_testing_1_1_string_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Get_Recording"><param name="Local" value="struct_native_multi_world_testing_1_1_string_recorder.html#a472c98d1bdffbd55e15d2d90d88bce73"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="struct_native_multi_world_testing_1_1_string_recorder.html#aeff66998efda5436eecabcf66aebc047"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TauFirstExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_tau_first_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TauFirstExplorer"><param name="Local" value="class_native_multi_world_testing_1_1_tau_first_explorer.html#a48c1359917cb35ec10cfe9dc4a875f7e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_tau_first_explorer.html#aabbfb453264ba758fd540c7d7e8b995c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MyContext"><param name="Local" value="class_my_context.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MyInteraction"><param name="Local" value="struct_my_interaction.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Action"><param name="Local" value="struct_my_interaction.html#a0b217a7fe5628857491bfb30af572eb8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Context"><param name="Local" value="struct_my_interaction.html#af83cbd711da0690ef9b74da34e9298c9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Probability"><param name="Local" value="struct_my_interaction.html#a1a7debe5b2dc21f2257e55bc43ddfec4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Unique_Key"><param name="Local" value="struct_my_interaction.html#a24a23e0d2c007e39e545a771b1ea9f4b"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MyPolicy"><param name="Local" value="class_my_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="class_my_policy.html#a929453890ed2bf7ca674cc8b2b95ca8c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MyRecorder"><param name="Local" value="class_my_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Record"><param name="Local" value="class_my_recorder.html#a919f4a52a4dbf5c8fcd636644fb4f9fb"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MyScorer"><param name="Local" value="class_my_scorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MyScorer"><param name="Local" value="class_my_scorer.html#a34b35946b7e22476aca7594c3f0b1707"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Score_Actions"><param name="Local" value="class_my_scorer.html#a4880c170dd6d3e7c312277f8c3251558"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MySimplePolicy"><param name="Local" value="class_my_simple_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="class_my_simple_policy.html#aa4d6e5ee12af37ca132d043e0020944f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Choose_Action"><param name="Local" value="class_my_simple_policy.html#aa4d6e5ee12af37ca132d043e0020944f"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::abstract&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1abstract.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::Feature"><param name="Local" value="struct_native_multi_world_testing_1_1_feature.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::Feature"><param name="Local" value="struct_multi_world_testing_1_1_feature.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::HashUtils"><param name="Local" value="class_native_multi_world_testing_1_1_hash_utils.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IExplorer&lt; Ctx &gt;"><param name="Local" value="interface_multi_world_testing_1_1_i_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::BootstrapExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::EpsilonGreedyExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::GenericExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::SoftmaxExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::TauFirstExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IExplorer&lt; Ctx &gt;"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::BootstrapExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_bootstrap_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::EpsilonGreedyExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::GenericExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_generic_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::SoftmaxExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_softmax_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::TauFirstExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_tau_first_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IExplorer&lt; MultiWorldTesting::NativeContext &gt;"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_explorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::BootstrapExplorer&lt; MultiWorldTesting::NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_bootstrap_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::EpsilonGreedyExplorer&lt; MultiWorldTesting::NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_epsilon_greedy_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::GenericExplorer&lt; MultiWorldTesting::NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_generic_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::SoftmaxExplorer&lt; MultiWorldTesting::NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_softmax_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::TauFirstExplorer&lt; MultiWorldTesting::NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_tau_first_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::PRG::int_float"><param name="Local" value="union_native_multi_world_testing_1_1_p_r_g_1_1int__float.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IPolicy&lt; Ctx &gt;"><param name="Local" value="interface_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IPolicy&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IPolicy&lt; MultiWorldTesting::NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IPolicy&lt; MyContext &gt;"><param name="Local" value="interface_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MyPolicy"><param name="Local" value="class_my_policy.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IPolicy&lt; NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::NativePolicy"><param name="Local" value="class_multi_world_testing_1_1_native_policy.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IPolicy&lt; SimpleContext &gt;"><param name="Local" value="interface_multi_world_testing_1_1_i_policy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MySimplePolicy"><param name="Local" value="class_my_simple_policy.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MySimplePolicy"><param name="Local" value="class_my_simple_policy.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IRecorder&lt; Ctx &gt;"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::StringRecorder&lt; Ctx &gt;"><param name="Local" value="struct_native_multi_world_testing_1_1_string_recorder.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IRecorder&lt; Ctx &gt;"><param name="Local" value="interface_multi_world_testing_1_1_i_recorder.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IRecorder&lt; MyContext &gt;"><param name="Local" value="interface_multi_world_testing_1_1_i_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MyRecorder"><param name="Local" value="class_my_recorder.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IRecorder&lt; NativeContext &gt;"><param name="Local" value="singleton_native_multi_world_testing_1_1_i_recorder.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::NativeRecorder"><param name="Local" value="class_multi_world_testing_1_1_native_recorder.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IScorer&lt; Ctx &gt;"><param name="Local" value="interface_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IScorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IScorer&lt; MultiWorldTesting::NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IScorer&lt; MyContext &gt;"><param name="Local" value="interface_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MyScorer"><param name="Local" value="class_my_scorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::IScorer&lt; NativeContext &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_i_scorer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::NativeScorer"><param name="Local" value="class_multi_world_testing_1_1_native_scorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::IStringContext"><param name="Local" value="interface_multi_world_testing_1_1_i_string_context.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::SimpleContext"><param name="Local" value="class_multi_world_testing_1_1_simple_context.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::murmur_hash"><param name="Local" value="struct_native_multi_world_testing_1_1murmur__hash.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_native_multi_world_testing_1_1_mwt_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MyContext"><param name="Local" value="class_my_context.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MyInteraction&lt; Ctx &gt;"><param name="Local" value="struct_my_interaction.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::NativeContext"><param name="Local" value="class_multi_world_testing_1_1_native_context.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::NativeStringContext"><param name="Local" value="class_multi_world_testing_1_1_native_string_context.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::NumberUtils"><param name="Local" value="class_native_multi_world_testing_1_1_number_utils.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="PolicyCallback"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::BootstrapExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_bootstrap_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::EpsilonGreedyExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_epsilon_greedy_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::TauFirstExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_tau_first_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::PRG::prg"><param name="Local" value="struct_native_multi_world_testing_1_1_p_r_g_1_1prg.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="RecorderCallback"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::MwtExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_mwt_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ScorerCallback"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::GenericExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_generic_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MultiWorldTesting::SoftmaxExplorer&lt; Ctx &gt;"><param name="Local" value="class_multi_world_testing_1_1_softmax_explorer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NativeMultiWorldTesting::SimpleContext"><param name="Local" value="class_native_multi_world_testing_1_1_simple_context.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="clr"><param name="Local" value="dir_9b9ad47a1565323c48272349faad18e6.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="explore_clr_wrapper.h"><param name="Local" value="explore__clr__wrapper_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="explore_interface.h"><param name="Local" value="explore__interface_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="explore_interop.h"><param name="Local" value="explore__interop_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="static"><param name="Local" value="dir_d8f381a0b77e017d7215fb6cbc9ce255.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MWTExplorer.h"><param name="Local" value="_m_w_t_explorer_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="utility.h"><param name="Local" value="utility_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
