@@ -91,7 +91,15 @@ class io_buf {
     }
     if (ret == -1 && *name != '\0')
       {
-	cerr << "can't open: " << name << ", error = " << strerror(errno) << endl;
+#ifdef _WIN32
+    const size_t bufsize = 80;
+    char buf[bufsize];
+    strerror_s(buf, bufsize, errno);
+#else
+    char * buf = strerror(errno);
+#endif
+
+	cerr << "can't open: " << name << ", error = " << buf << endl;
 	throw exception();
       }
     

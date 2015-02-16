@@ -16,7 +16,7 @@ license as described in the file LICENSE.
 #define __INLINE inline
 #endif
 
-const size_t erase_point = ~ ((1 << 10) -1);
+const size_t erase_point = ~((1U << 10U) - 1U);
 
 template<class T> struct v_array{
  public:
