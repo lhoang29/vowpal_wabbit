@@ -95,6 +95,9 @@ namespace Microsoft.Research.MachineLearning
         [DllImport(LIBVW, EntryPoint = "VW_GetFeatures")]
         public static extern VwFeature GetFeatures(VwHandle vw, VwExample example, ref SizeT length);
 
+        [DllImport(LIBVW, EntryPoint = "VW_GetScores")]
+        public static extern VwFeature GetScores(VwExample example, float[] scores, int length);
+
         [DllImport(LIBVW, EntryPoint = "VW_ReturnFeatures")]
         public static extern void ReturnFeatures(VwExample features);
 

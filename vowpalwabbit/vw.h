@@ -63,6 +63,7 @@ namespace VW {
   const char* get_tag(example* ec);
   size_t get_feature_number(example* ec);
   feature* get_features(vw& all, example* ec, size_t& feature_number);
+  void get_scores(example* ec, float* scores, size_t score_number);
   void return_features(feature* f);
 
   void add_constant_feature(vw& all, example*ec);

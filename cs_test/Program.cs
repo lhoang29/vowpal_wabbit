@@ -15,6 +15,7 @@ namespace cs_test
     {
         static void Main(string[] args)
         {
+            TestScores(); return;
             //ExploreClock.Clock();
             //LabDemo.Run();
             ExploreOnlySample.Run();
@@ -24,6 +25,24 @@ namespace cs_test
             RunFlatExampleTestEx();
     //      RunLDAPredict();
             //RunVWParse_and_VWLearn();
+        }
+
+        static void TestScores()
+        {
+            string basePath = @"C:\Users\lhoang\Documents\Git\vw-louie\";
+            string modelFile = Path.Combine(basePath, "latestvw.model");
+            string[] lines = File.ReadAllLines(Path.Combine(basePath, "rcv1.top5000.vw.explore"));
+            IntPtr vw = VowpalWabbitInterface.Initialize("-t -i " + modelFile + " -r raw.new");
+
+            foreach (string line in lines)
+            {
+                string l = line.Substring(line.IndexOf('|'));
+                IntPtr example = VowpalWabbitInterface.ReadExample(vw, l);
+                VowpalWabbitInterface.Predict(vw, example);
+                VowpalWabbitInterface.FinishExample(vw, example);
+                float[] scores = new float[2];
+                VowpalWabbitInterface.GetScores(example, scores, scores.Length);
+            }
         }
 
         private static void RunFeaturesTest()

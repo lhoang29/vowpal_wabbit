@@ -120,6 +120,15 @@ namespace VW {
 	return fs.feature_map.begin;
 }
 
+void get_scores(example* ec, float* scores, size_t score_number)
+{
+    CB::label ld = ec->l.cb;
+    for (unsigned int i = 0; i < ld.costs.size(); i++) {
+        CB::cb_class cl = ld.costs[i];
+        scores[cl.action - 1] = cl.partial_prediction;
+    }
+}
+
 void return_features(feature* f)
 {
 	if (f != nullptr)
