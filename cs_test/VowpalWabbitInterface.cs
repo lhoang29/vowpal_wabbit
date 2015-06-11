@@ -35,6 +35,9 @@ namespace Microsoft.Research.MachineLearning
         [DllImport(LIBVW, EntryPoint = "VW_Initialize")]
         public static extern VwHandle Initialize([MarshalAs(UnmanagedType.LPWStr)]string arguments);
 
+        [DllImport(LIBVW, EntryPoint = "VW_SeedFromModel")]
+        public static extern VwHandle SeedFromModel(VwHandle vw, [MarshalAs(UnmanagedType.LPWStr)]string extraArguments);
+
         [DllImport(LIBVW, EntryPoint = "VW_Finish")]
         public static extern void Finish(VwHandle vw);
 

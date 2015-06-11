@@ -7,6 +7,7 @@ using System.IO;
 using Microsoft.Research.MachineLearning;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
+using System.Threading.Tasks;
 
 namespace cs_test
 {
@@ -17,6 +18,7 @@ namespace cs_test
         {
             //ExploreClock.Clock();
             //LabDemo.Run();
+            TestSharedModelPinvoke(); return;
             ExploreOnlySample.Run();
             RunFeaturesTest();
             RunParserTest();
@@ -24,6 +26,56 @@ namespace cs_test
             RunFlatExampleTestEx();
     //      RunLDAPredict();
             //RunVWParse_and_VWLearn();
+        }
+
+        private static void TestSharedModelPinvoke()
+        {
+            string basePath = @"D:\Git\vw-louie\vowpal_wabbit\test";
+            string dataFile = Path.Combine(basePath, "train-sets\\0001.dat");
+
+            // trained with: -d train-sets\0001.dat -k -c --passes 8 -l 20 --power_t 1 --initial_t 128000  --ngram 3 --skips 1 --invariant --holdout_off -f 0001.model
+            string modelFile = Path.Combine(basePath, "0001.model");
+            string args = string.Format("-k -t -i {0} --invariant -d {1}", modelFile, dataFile);
+
+            var exampleLines = new List<string>();
+            var predictionsTruth = new List<float>();
+            using (var sr = new StreamReader(File.OpenRead(dataFile)))
+            {
+                IntPtr vw = VowpalWabbitInterface.Initialize(args);
+                while (!sr.EndOfStream)
+                {
+                    string line = sr.ReadLine();
+                    exampleLines.Add(line);
+
+                    IntPtr example = VowpalWabbitInterface.ReadExample(vw, line);
+                    float score = VowpalWabbitInterface.Predict(vw, example);
+                    VowpalWabbitInterface.FinishExample(vw, example);
+
+                    predictionsTruth.Add(score);
+                }
+                VowpalWabbitInterface.Finish(vw);
+            }
+
+            IntPtr model = VowpalWabbitInterface.Initialize(args);
+
+            Parallel.For(0, 2, new ParallelOptions { MaxDegreeOfParallelism = Environment.ProcessorCount * 2 }, i =>
+            {
+                IntPtr vwShared = VowpalWabbitInterface.SeedFromModel(model, string.Empty);
+                for (int j = 0; j < exampleLines.Count; j++)
+                {
+                    IntPtr example = VowpalWabbitInterface.ReadExample(vwShared, exampleLines[j]);
+                    float score = VowpalWabbitInterface.Predict(vwShared, example);
+                    VowpalWabbitInterface.FinishExample(vwShared, example);
+
+                    if (score != predictionsTruth[j])
+                    {
+                        Console.WriteLine("!!!! FAILED !!!!");
+                    }
+                }
+                VowpalWabbitInterface.Finish(vwShared);
+            });
+
+            VowpalWabbitInterface.Finish(model);
         }
 
         private static void RunFeaturesTest()

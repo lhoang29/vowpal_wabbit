@@ -34,6 +34,13 @@ extern "C"
 		std::string sa(convert.to_bytes(pstrArgs));
 		return VW_InitializeA(sa.c_str());
 	}
+
+    VW_DLL_MEMBER VW_HANDLE VW_CALLING_CONV VW_SeedFromModel(VW_HANDLE handle, const char16_t * pstrArgs)
+    {
+        std::wstring_convert<std::codecvt_utf8<char16_t>, char16_t> convert;
+        std::string sa(convert.to_bytes(pstrArgs));
+        return VW_SeedFromModelA(handle, sa.c_str());
+    }
 #endif
 
 
@@ -43,6 +50,12 @@ extern "C"
 		vw* all = VW::initialize(s);
 		return static_cast<VW_HANDLE>(all);
 	}
+
+    VW_DLL_MEMBER VW_HANDLE VW_CALLING_CONV VW_SeedFromModelA(VW_HANDLE handle, const char * pstrArgs)
+    {
+        vw* pointer = static_cast<vw*>(handle);
+        return static_cast<VW_HANDLE>(VW::seed_vw_model(pointer, string(pstrArgs)));
+    }
 	
 	VW_DLL_MEMBER void      VW_CALLING_CONV VW_Finish_Passes(VW_HANDLE handle)
 	{
