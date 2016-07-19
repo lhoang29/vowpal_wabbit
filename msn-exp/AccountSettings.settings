@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="msn_exp" GeneratedClassName="AccountSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BatchServiceUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://msnexp.eastus.batch.azure.com</Value>
+    </Setting>
+    <Setting Name="BatchAccountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">msnexp</Value>
+    </Setting>
+    <Setting Name="BatchAccountKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Uhxk1pGzyD7nH8zTMszIurF91MOxGXdmQKBxwjXa7hzxcRAMk5IefLXM+j47pAOBJRk3n8P5pH8ax5znbU/CWg==</Value>
+    </Setting>
+    <Setting Name="StorageServiceUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">core.windows.net</Value>
+    </Setting>
+    <Setting Name="StorageAccountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">msnexpstorage</Value>
+    </Setting>
+    <Setting Name="StorageAccountKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GYxbkis9Rw/FUfnIHTop7oWv7Gmrqww6m56EMVyST6KtzPPDHsagCpOcAKI2zhMMdgo9Vl1KxPyurPjYELMGPA==</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

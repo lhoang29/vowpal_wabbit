@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="msn_exp" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PoolVMSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">extralarge</Value>
+    </Setting>
+    <Setting Name="PoolId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">msn-experimentation-pool</Value>
+    </Setting>
+    <Setting Name="DeleteJob" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DeleteContainer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="JobId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">msn-experimentation-job</Value>
+    </Setting>
+    <Setting Name="ShouldDeletePool" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ShouldDeleteJob" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ShouldDeleteContainer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
